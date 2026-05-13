@@ -24,9 +24,9 @@ Campus Buddy is a desktop-based graphical user interface (GUI) chatbot applicati
 2.  **Execute the Script:**
     Make sure you have Python installed on your system. Run the file directly from your terminal or VS Code environment:
     ```bash
-    python campus_buddy_gui.py
+    python AI_chatbot_python_code.py
     ```
 
 ## 📂 Project Structure
-*   `campus_buddy_gui.py`: The complete operational backend logic and frontend user interface codebase.
+*   `AI_chatbot_python_code`: The complete operational backend logic and frontend user interface codebase.
 *   `README.md`: Project documentation and environment setup guidelines.
