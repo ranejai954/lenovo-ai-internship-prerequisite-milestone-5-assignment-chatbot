@@ -18,7 +18,7 @@ Campus Buddy is a desktop-based graphical user interface (GUI) chatbot applicati
 1.  **Clone the Repository:**
     ```bash
     git clone github.com
-    cd YOUR_REPO_NAME
+    cd ranejai954/lenovo-ai-internship-prerequisite-milestone-5-assignment-chatbot
     ```
 
 2.  **Execute the Script:**
